@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+mplsoccer
+kloppy
+lightgbm
+hmmlearn
